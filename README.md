@@ -20,3 +20,5 @@ The model choosen for the task was an Essemblem Gradient Boosting Model.
 The predictions were converted into an .csv file for submission.
 
 The model scored 99.9878.
+
+(https://aiplanet.com/challenges/356/network-activity-anomaly-detection-by-consulting-and-analytics-club-iit-guwahati-6450e0c7/overview/about)
